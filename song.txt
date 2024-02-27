@@ -5,4 +5,7 @@ Say things you don't understand
 I can take myself dancing
 And I can hold my own hand
 Yeah, I can love me better than you can
+<<<<<<< HEAD
 ----------------------------------------
+=======
+>>>>>>> parent of 3089a53 (Change in file song.txt)
