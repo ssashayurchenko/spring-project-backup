@@ -7,8 +7,11 @@ And I can hold my own hand
 Yeah, I can love me better than you can
 <<<<<<< HEAD
 <<<<<<< HEAD
+<<<<<<< HEAD
 ----------------------------------------
 =======
 >>>>>>> parent of 3089a53 (Change in file song.txt)
+=======
+>>>>>>> parent of 6d26bae (Revert "Test 3")
 =======
 >>>>>>> parent of 6d26bae (Revert "Test 3")
